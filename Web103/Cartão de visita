@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-pt">
+    <head>
+        <meta charset="UTF-8">
+        <title>Página do Thiago</title>
+    </head>
+    <body>
+        <!--Contenido-->
+        <h1>Meus trabalhos</h1>
+        <a href="https://w3schools.com">W3schools</a>
+        <a href="contato.html">em construção!</a>
+        <a href="https://youtube.com" target="_blank">assita</a>
+        <a href="Santosthiago02097@gmail.com">Me envie email</a>
+        <a href="tel:+5511993129999">Ligue</a>
+
+        <h2>Sobre mim</h2>
+        <p>Meu nome é Thiago Santos de almeida. <br>
+        Tenho 18 anos de idade, curso ADS na Fatec e sou músico.</p>
+        <h3>Formação</h3>
+        <ul>
+            <li>Assistente administrativo - SENAI: Concluído em 2025</li>
+            <li>Ensino médio: Concluído em 2025</li>
+            <li>ADS - Fatec: Cursando</li>
+        </ul>
+        <h3>Experiencias</h3>
+        <ul>
+            <li>Assistente administrativo - Sabesp: 2023-2025</li>
+        </ul>
+        <h3>Habilidades</h3>
+        <ul>
+            <li>Web dev (iniciante)</li>
+            <li>Java (iniciante)</li>
+            <li>Excel (básico)</li>
+            <li>SAP ERP</li>
+        </ul>
+        <hr>
+        <h2>Minhas composições</h2>
+        <p>Eu gosto de compor música de vez em quando.</p>
+        <p><b>Sei que existem ferramentas digitais para compor, ainda sim, prefiro escrever no papel.</b></p>
+        <h3>Valsa em lá</h3>
+        <p>
+        Uma peça <strong>melancólica feliz</strong><br>
+        Essa peça nos leva a refletir na dualidade entre felicidade e tristeza. Gosto de chamá-la de <i>Sorrofull Joy</i>(alegria triste).</p>
+        <h3>Polka em si bemol</h3>
+        </h3>
+        <p>Uma <i>polka</i> cheia de emoção.</p>
+
+        <h2>Futuros projetos</h2>
+        <ol type="I">
+            <li>Site do Almeida</li>
+            <li>Plataforma do Studio de Beleza animal (em grupo)</li>
+            <li>Sinfonia das rosas e cravos</li>
+        </ol>
+</html>
