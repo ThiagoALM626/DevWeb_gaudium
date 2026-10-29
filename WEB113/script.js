@@ -20,9 +20,10 @@ if (hora < 12) {
 const mensagem = document.createElement("p");
 mensagem.textContent = saudacao + " Seja bem-vindo ao meu portfólio.";
 header.appendChild(mensagem);
-
-// Destaca a curiosidade ao clicar
-const curiosidade = document.querySelector("#curiosidade aside");
-curiosidade.addEventListener("click", () => {
-    curiosidade.classList.toggle("destaque");
-});
+// Mudar cor do titulo
+function mudarCor() {
+    const titulo = document.getElementById("titulo");
+    const cores = ["red", "blue", "green", "purple", "orange", "deeppink", "teal"];
+    const sorteada = cores[Math.floor(Math.random() * cores.length)];
+    titulo.style.color = sorteada;
+}
